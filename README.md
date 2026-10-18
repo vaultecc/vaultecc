@@ -24,7 +24,4 @@ Estudiante de DAM aprendiendo a programar. Aquí voy subiendo mis ejercicios y p
   </a>
 </p>
 <br>
-
-[![Vault's Activity Graph](https://activity-graph.herokuapp.com/graph?username=vaultecc&custom_title=Vault's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/vaultecc)
-
 ------
